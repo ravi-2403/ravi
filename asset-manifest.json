@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ravi/static/css/main.e6c13ad2.css",
+    "main.js": "/ravi/static/js/main.860c44ef.js",
+    "index.html": "/ravi/index.html",
+    "main.e6c13ad2.css.map": "/ravi/static/css/main.e6c13ad2.css.map",
+    "main.860c44ef.js.map": "/ravi/static/js/main.860c44ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.860c44ef.js"
+  ]
+}
